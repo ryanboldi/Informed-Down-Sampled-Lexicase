@@ -1,5 +1,5 @@
-# Informed Down-Sampled Lexicase Selection
- Code for the paper "Informed Down-Sampled Lexicase Selection: Identifying productive training cases for efficient problem solving"
+
+Code for the paper "Informed Down-Sampled Lexicase Selection: Identifying productive training cases for efficient problem solving"
 
 # Authors
 
@@ -38,4 +38,5 @@ If you use this code, please cite the paper:
 
 You can find supplemental material hosted here:
 
-- ### [PushGP Instruction Sets](/supplement/instructions.md)
+### [PushGP Instruction Sets](/supplement/instructions.md)
+- This file details the exact list of instructions and constants available to PushGP for each of the problems studied.
