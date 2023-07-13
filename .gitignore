@@ -1,0 +1,35 @@
+/target
+/classes
+/checkouts
+profiles.clj
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+.hgignore
+.hg/
+*.iml
+.idea/
+out
+notes
+.clj-kondo/
+.calva/
+.lsp/
+/.idea
+/.idea/
+/results
+/temp
+*~
+q
+
+# Clojure Script
+.shadow-cljs/
+node_modules/
+
+# Don't commit the data directory that we'll
+# use to hold the data from
+# https://github.com/thelmuth/program-synthesis-benchmark-datasets
+/data
+**/.DS_Store
