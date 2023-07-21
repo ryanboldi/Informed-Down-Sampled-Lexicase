@@ -24,6 +24,7 @@
 
 
 ## Find Pair
+
 | Type   | Instructions  |
 |---|---|
 | Boolean  | :boolean_and :boolean_deep_dup :boolean_dup :boolean_dup_items :boolean_dup_times :boolean_empty :boolean_eq :boolean_flush :boolean_from_integer :boolean_invert_first_then_and :boolean_invert_second_then_and :boolean_not :boolean_or :boolean_pop :boolean_print :boolean_rot :boolean_shove :boolean_stack_depth :boolean_swap :boolean_xor :boolean_yank :boolean_yank_dup  |
@@ -49,6 +50,7 @@
 | Constants  | "Fizz" "Buzz" "FizzBuzz" 0 3 5|
 
 ## Fuel Cost
+
 | Type   | Instructions  |
 |---|---|
 | Boolean  | :boolean_and :boolean_deep_dup :boolean_dup :boolean_dup_items :boolean_dup_times :boolean_empty :boolean_eq :boolean_flush :boolean_from_integer :boolean_invert_first_then_and :boolean_invert_second_then_and :boolean_not :boolean_or :boolean_pop :boolean_print :boolean_rot :boolean_shove :boolean_stack_depth :boolean_swap :boolean_xor :boolean_yank :boolean_yank_dup  |
