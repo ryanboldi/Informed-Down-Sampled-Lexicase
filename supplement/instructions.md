@@ -61,7 +61,6 @@
 
 
 ## GCD
-( :print_newline close #function[propeller.problems.PSB2.gcd/random-int])
 
 | Type   | Instructions  |
 |---|---|
