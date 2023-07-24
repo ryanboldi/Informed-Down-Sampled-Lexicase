@@ -34,6 +34,15 @@ If you use this code, please cite the paper:
 }
 
 ```
+
+# Code
+
+The code for the PushGP portion of the experiments can be found in this repository [here]()
+
+The code for the G3P portion of the experiements can be found [here](https://gitlab.rlp.net/mbriesc/informed-down-sampled-lexicase-selection)
+
+
+
 # Supplement
 
 You can find supplemental material hosted here:
@@ -42,4 +51,5 @@ You can find supplemental material hosted here:
 - This file details the exact list of instructions and constants available to PushGP for each of the problems studied.
 ### [G3P Grammars](/supplement/grammarsG3P.md)
 - This file details the exact list of grammars used when doing grammar guided genetic programming for each of the problem studied.
-- You can also find them in `.bnf` format at: 
+- You can also find them in `.bnf` format [here](https://github.com/ryanboldi/Informed-Down-Sampled-Lexicase/tree/bbfa308ad8967d7662a7433ad4ed700cbf9ae346/supplement/awsupplementforids)
+
