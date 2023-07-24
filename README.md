@@ -38,5 +38,8 @@ If you use this code, please cite the paper:
 
 You can find supplemental material hosted here:
 
-### [PushGP Instruction Sets](/supplement/instructions.md)
+### [PushGP Instruction Sets](/supplement/instructionsPushGP.md)
 - This file details the exact list of instructions and constants available to PushGP for each of the problems studied.
+### [G3P Grammars](/supplement/grammarsG3P.md)
+- This file details the exact list of grammars used when doing grammar guided genetic programming for each of the problem studied.
+- You can also find them in `.bnf` format at: 
